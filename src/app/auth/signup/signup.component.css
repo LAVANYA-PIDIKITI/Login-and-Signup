@@ -1,0 +1,14 @@
+.login{
+    color: #fff;
+  }
+  .login a{
+    color: #d39e00;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .auth-avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
